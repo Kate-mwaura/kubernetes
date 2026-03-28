@@ -1,0 +1,3 @@
+[submodule "deps/lib"]
+	path = deps/lib
+	url = https://github.com/Kate-mwaura/demoapp.git
